@@ -24,16 +24,15 @@ If you prefer to manually check an email or link for phishing, you can visit [Or
 ## Project Structure
 ```
 gmail-phishing-detector/
-│
-├── manifest.json
-├── content.js
-├── background.js
-├── popup.html
-├── popup.js
-└── icons/
-├── icon16.png
-├── icon48.png
-└── icon128.png
+         |--- manifest.json
+         |--- content.js
+         |--- background.js
+         |--- popup.html
+         |--- popup.js
+         |--- icons/
+               |--- icon16.png
+               |--- icon48.png
+               |--- icon128.png
 ```
 
 ## Installation
